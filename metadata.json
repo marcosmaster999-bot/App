@@ -1,0 +1,5 @@
+{
+  "name": "DeX-Desktop-Android",
+  "description": "A DeX-like desktop environment launcher for Android with floating windows and USB input mapping.",
+  "requestFramePermissions": []
+}
